@@ -1,6 +1,6 @@
 # Projeto Estratégias de SI
 
-## Project setup
+## Setup do projeto
 ```
 npm install
 ```
