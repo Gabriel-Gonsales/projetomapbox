@@ -1,24 +1,16 @@
-# projetomapbox
+# Projeto Estratégias de SI
 
-## Project setup
+## Setup do projeto
 ```
 npm install
 ```
 
-### Compiles and hot-reloads for development
+### Para compilar para testar
 ```
 npm run serve
 ```
 
-### Compiles and minifies for production
+### Compilar para produçãoo
 ```
 npm run build
 ```
-
-### Lints and fixes files
-```
-npm run lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
