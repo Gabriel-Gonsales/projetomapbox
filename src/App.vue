@@ -33,7 +33,7 @@
           this.titulo = 'Média da renda mensal per capita(x100)'
         }
         else if(this.filtroSelecionado == 2  && escolhendo){ this.mensagem = "Renda familiar per capita superior a 2 salários mínimos também é um importante indicador de poder de compra na região.";
-        this.valoresPond = [0,1,2,3,4,5]
+        this.valoresPond = [0,10,20,30,40,50]
         this.titulo = 'Quantidade média de domicílios onde a renda é maior que 2 salários mínimos'
         }
         else if(escolhendo){
